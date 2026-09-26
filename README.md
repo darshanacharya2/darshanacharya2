@@ -46,12 +46,10 @@ public class DarshanAcharya {
     String currentGoal = "Build useful software and become a skilled engineer";
 }
 
----
 ```
 </td>
 </tr>
 </table>
----
 
 <div align="center">
 
