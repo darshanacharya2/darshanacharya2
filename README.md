@@ -1,160 +1,158 @@
-<h1 align="center">Hi 👋, I'm Darshan Acharya</h1>
+# Hi 👋, I'm Darshan Acharya
 
-<h3 align="center">Software Developer • Java Enthusiast • Android Developer • AI Explorer</h3>
+### Software Developer • Java Enthusiast • Android Developer • AI Explorer
 
-<p align="center">
-  <img src="adme-typing-svg.herokuapp.com/?font=Poppins&size=24&duration=3000&color=FE428E&center=true&vCenter=true&width=700&lines=Software+Developer;Java+Developer;Android+Developer;AI+Enthusiast;Full+Stack+Developer
-</p>
+https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=FE428E&center=true&vCenter=true&width=700&lines=Software+Developer;Java+Developer;Android+Developer;AI+Enthusiast;Full+Stack+Developer
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=darshanacharya2&label=Views&color=fe428e&style=for-the-badge
-</p>
+https://komarev.com/ghpvc/?username=darshanacharya2&label=Profile%20Views&color=fe428e&style=for-the-badge
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-- 🎓 Computer Science Student
-- ☕ Java & Data Structures Enthusiast
-- 📱 Android Developer using Kotlin
-- 🌐 Full Stack Developer using React & Node.js
-- 🤖 Passionate about AI-Powered Applications
-- 🚀 Continuously learning System Design and Backend Development
-- 🎯 Aspiring Software Engineer
+- 🎓 Computer Science student
+- ☕ Interested in Java and Data Structures & Algorithms
+- 📱 Building Android applications using Kotlin
+- 🌐 Developing full-stack applications using React and Node.js
+- 🤖 Exploring AI-powered application development
+- 🌱 Currently learning Spring Boot, backend development, and system design
+- 🎯 Working toward becoming a skilled software engineer
 
 ---
+
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Programming Languages
 
-<p align="center">
-  https://skillicons.dev/icons?i=java,kotlin,javascript,python
-</p>
+https://skillicons.dev/icons?i=java,kotlin,javascript,python&theme=dark
 
-### Frontend
+### 🎨 Frontend Development
 
-<p align="center">
-  https://skillicons.dev/icons?i=react,vite,html,css
-</p>
+https://skillicons.dev/icons?i=react,vite,html,css&theme=dark
 
-### Backend
+### ⚙️ Backend Development
 
-<p align="center">
-  https://skillicons.dev/icons?i=nodejs,express
-</p>
+https://skillicons.dev/icons?i=nodejs,express&theme=dark
 
-### Database
+### 🗄️ Databases
 
-<p align="center">
-  https://skillicons.dev/icons?i=mysql
-</p>
+https://skillicons.dev/icons?i=mysql&theme=dark
 
-### Tools & Platforms
+### 🔧 Development Tools
 
-<p align="center">
-  https://skillicons.dev/icons?i=git,github,vscode,androidstudio
-</p>
+https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman&theme=dark
 
+---
 
-### Database
+## 🌟 Featured Projects
 
-<p align="center">
-  https://skillicons.dev/icons?i=mysql
-</p>
+### 🐛 [Namma Reshme](https://github.com/darshanacharya2/Namma-Reshme)
 
+A smart Android application developed using Kotlin that helps sericulture farmers monitor temperature and humidity levels during different silkworm growth stages.
 
-# 🌟 Featured Projects
+**Technology:** Kotlin • Android Studio • Android SDK
 
-### 🐛 Namma Reshme
-Smart Android application developed using Kotlin that helps sericulture farmers monitor temperature and humidity conditions and receive recommendations for healthy silkworm growth.
+---
 
 ### 🩺 Radiological Abnormalities Detection System
-AI-powered medical imaging platform that uses CNN and YOLOv8 to detect abnormalities in radiological scans and generate diagnostic reports.
+
+A full-stack medical imaging application that uses CNN and YOLOv8 models to detect and highlight potential abnormalities in radiological images.
+
+**Technology:** React • Node.js • Express • Python • YOLOv8 • CNN
+
+---
 
 ### 🐾 Pet Breed Identifier
-Upload a pet image and receive breed detection, personality traits, care guidelines, and fun facts using AI-powered image analysis.
+
+An AI-powered application that analyzes uploaded pet photographs and generates breed information, personality traits, care guidance, and interesting facts.
+
+**Technology:** React • Vite • Node.js • Express • Anthropic Claude API
+
+---
 
 ### 🎵 Song Mood Classifier
-Analyze the mood, energy, and emotional fingerprint of songs using Claude AI.
 
-### 💻 Java DSA Repository
-Collection of algorithmic solutions and coding interview preparation problems implemented in Java.
+A full-stack AI application that analyzes a song title and generates its mood, energy level, themes, and emotional fingerprint.
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  https://github-readme-stats.vercel.app/api?username=darshanacharya2&show_icons=true&theme=radical&hide_border=true
-  
-  https://github-readme-stats.vercel.app/api/top-langs/?username=darshanacharya2&layout=compact&theme=radical&hide_border=true
-</p>
+**Technology:** React • Vite • Node.js • Express • Anthropic Claude API
 
 ---
 
-# 🔥 GitHub Streak
+### 💻 Java and DSA Practice
 
-<p align="center">
-  https://github-readme-streak-stats.herokuapp.com/?user=darshanacharya2&theme=radical&hide_border=true
-</p>
+A collection of Java solutions covering data structures, algorithms, coding challenges, and technical interview preparation.
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  https://github-profile-trophy.vercel.app/?username=darshanacharya2&theme=radical&no-frame=true&row=1&column=6
-</p>
+**Topics:** Arrays • Strings • HashMaps • Sorting • Searching • SQL
 
 ---
 
-# 📈 Contribution Graph
+## 📊 GitHub Statistics
 
-<p align="center">
-  https://github-readme-activity-graph.vercel.app/graph?username=darshanacharya2&theme=react-dark&bg_color=141321&hide_border=true
-</p>
+https://github-readme-stats.vercel.app/api?username=darshanacharya2&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=darshanacharya2&layout=compact&theme=radical&hide_border=true&langs_count=8
 
 ---
 
-# 💡 Currently Learning
+## 🔥 GitHub Streak
+
+https://streak-stats.demolab.com?user=darshanacharya2&theme=radical&hide_border=true
+
+---
+
+## 🏆 GitHub Trophies
+
+https://github-profile-trophy.vercel.app/?username=darshanacharya2&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=6
+
+---
+
+## 📈 Contribution Graph
+
+![Contribution Graph](https:ty-graph.vercel.app/graph?username=darshanacharya2&bg_color=141321&color=FE428E&line=A9FEF7&point=F8D847&area=true&hide_border=true
+
+---
+
+## 💡 Currently Learning
 
 ```java
-public class Darshan {
+public class DarshanAcharya {
 
-    String[] learning = {
+    String[] currentlyLearning = {
         "Advanced Java",
-        "Data Structures & Algorithms",
-        "System Design",
+        "Data Structures and Algorithms",
         "Spring Boot",
-        "Backend Development"
+        "Backend Development",
+        "System Design"
     };
 
-    String goal = "Become a Skilled Software Engineer 🚀";
+    String goal = "Become a skilled software engineer";
 }
 ```
 
 ---
 
-# 📫 Connect With Me
+## 🎯 Development Goals
 
-<p align="center">
-  https://www.linkedin.com/in/darshan-b-m-717b6527a/
-    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-  </a>
-
-  https://github.com/darshanacharya2
-    https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
-  </a>
-</p>
+- Build production-ready applications
+- Strengthen Java and DSA problem-solving skills
+- Learn Spring Boot and backend architecture
+- Contribute to open-source projects
+- Develop useful AI-powered products
+- Improve system design knowledge
 
 ---
 
-<p align="center">
-  https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical
-</p>
+## 📫 Connect With Me
 
-<h3 align="center">✨ Code • Learn • Build • Repeat ✨</h3>
+[![LinkedIn](httpss.io/badge/LinkedIn-Darshan%20B%20M-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/darshan-b-m-717b6527a/)
 
-<p align="center">
-⭐ If you like my work, consider starring my repositories!
-</p>
+[![GitHub](https://img/badge/GitHub-darshanacharya2-181717?style=for-the-badge&logo=github&logoColor=white](https://github.com/darshanacharya2)
+
+---
+
+https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical
+
+### ✨ Code • Learn • Build • Repeat ✨
+
+⭐ If you find my projects useful, consider giving the repositories a star.
+``
