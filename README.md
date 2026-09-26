@@ -98,19 +98,9 @@ public class DarshanAcharya {
 
 <div align="center">
 
-## 📊 GitHub Statistics
+### 📊 GitHub Statistics & Languages
 
-[![Darshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=darshanacharya2&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/darshanacharya2)
-[![GitHub Streak](https://streak-stats.demolab.com?user=darshanacharya2&theme=radical&hide_border=true)](https://github.com/darshanacharya2)
-
-<br/>
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darshanacharya2&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/darshanacharya2)
-
-### 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=darshanacharya2&bg_color=141321&color=FE428E&line=A9FEF7&point=F8D847&area=true&hide_border=true)
-
+![Metrics](github-metrics.svg)
 </div>
 
 ---
