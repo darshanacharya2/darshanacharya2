@@ -97,9 +97,10 @@ public class DarshanAcharya {
 
 <div align="center">
 
-### 📊 GitHub Statistics & Languages
+### 📊 GitHub Statistics & LeetCode Statistics
 
 ![Metrics](github-metrics.svg)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/darshanacharya2?theme=dark&ext=activity)](https://leetcode.com/darshanacharya2/)
 </div>
 
 ---
