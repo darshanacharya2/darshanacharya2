@@ -1,7 +1,13 @@
-<div align="center">
-
-<!-- Header Image using Capsule Render -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=141321,FE428E,A9FEF7,F8D847&height=250&section=header&text=Darshan%20Acharya&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" alt="Header Banner"/>
+<table align="center" width="100%">
+  <tr>
+    <td width="30%" align="center" valign="center">
+      <!-- Change this filename to whatever you named your uploaded photo -->
+      <img src="profile-photo.png" width="200" style="border-radius: 50%;" alt="Darshan Acharya"/>
+    </td>
+    <td width="70%" valign="top">
+      </td>
+  </tr>
+</table>
 
 ### Software Developer | Java Enthusiast | Android Developer | AI Explorer
 
