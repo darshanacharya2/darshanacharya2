@@ -1,20 +1,7 @@
-<table align="center" width="100%">
-  <tr>
-    <td width="30%" align="center" valign="center">
-      <!-- Change this filename to whatever you named your uploaded photo -->
-      <img src="profile-photo.jpeg" width="200" style="border-radius: 50%;" alt="Darshan Acharya"/>
-    </td>
-    <td width="70%" valign="top">
-## 🚀 About Me
-- ☕ Focused on **Java**, **Data Structures and Algorithms**, and **SQL**
-- 📱 Building Android applications with **Kotlin** and **Android Studio**
-- 🌐 Developing full-stack applications with **React**, **Node.js**, and **Express**
-- 🤖 Exploring practical AI integrations for real-world applications
-- 🌱 Currently learning **Spring Boot**, **backend development**, and **system design**
-- 🎯 Goal: Become a skilled software engineer and build impactful products
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<!-- Header Image using Capsule Render -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=141321,FE428E,A9FEF7,F8D847&height=250&section=header&text=Darshan%20Acharya&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" alt="Header Banner"/>
 
 ### Software Developer | Java Enthusiast | Android Developer | AI Explorer
 
@@ -29,6 +16,18 @@
 
 <table align="center" width="100%">
   <tr>
+    <td width="50%" valign="top">
+
+## 🚀 About Me
+
+- ☕ Focused on **Java**, **Data Structures and Algorithms**, and **SQL**
+- 📱 Building Android applications with **Kotlin** and **Android Studio**
+- 🌐 Developing full-stack applications with **React**, **Node.js**, and **Express**
+- 🤖 Exploring practical AI integrations for real-world applications
+- 🌱 Currently learning **Spring Boot**, **backend development**, and **system design**
+- 🎯 Goal: Become a skilled software engineer and build impactful products
+
+</td>
 <td width="50%" valign="top">
 
 ## 💡 Currently Learning
@@ -46,10 +45,6 @@ public class DarshanAcharya {
 
     String currentGoal = "Build useful software and become a skilled engineer";
 }
-```
-</td>
-</tr>
-</table>
 
 ---
 
