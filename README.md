@@ -97,16 +97,23 @@ public class DarshanAcharya {
 
 <div align="center">
 
-### 📊 GitHub Statistics & LeetCode Statistics
+### 📊 GitHub & LeetCode Statistics
 
-![Metrics](github-metrics.svg)
-[![LeetCode Stats](https://leetcard.jacoblin.cool/darshanacharya2?theme=dark&ext=activity)](https://leetcode.com/darshanacharya2/)
+<p align="center">
+  <!-- Your locally generated GitHub Metrics -->
+  <img src="github-metrics.svg" height="230" alt="GitHub Metrics"/>
+  
+  <!-- Dynamic LeetCode Stats -->
+  <a href="https://leetcode.com/darshanacharya2/">
+    <img src="https://leetcard.jacoblin.cool/darshanacharya2?theme=dark&amp;ext=activity" height="230" alt="LeetCode Stats"/>
+  </a>
+</p>
+
 </div>
 
 ---
 
 <div align="center">
-
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Darshan_Acharya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshan-b-m-717b6527a/)
