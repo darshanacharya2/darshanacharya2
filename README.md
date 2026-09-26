@@ -47,6 +47,11 @@ public class DarshanAcharya {
 }
 
 ---
+```
+</td>
+</tr>
+</table>
+---
 
 <div align="center">
 
