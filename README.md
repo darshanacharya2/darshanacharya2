@@ -3,7 +3,7 @@
 <h3 align="center">Software Developer • Java Enthusiast • Android Developer • AI Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=FE428E&center=true&vCenter=true&width=700&lines=eveloper;Java+Developer;Android+Developer;AI+Enthusiast;Full+Stack+Developer
+  <img src="adme-typing-svg.herokuapp.com/?font=Poppins&size=24&duration=3000&color=FE428E&center=true&vCenter=true&width=700&lines=Software+Developer;Java+Developer;Android+Developer;AI+Enthusiast;Full+Stack+Developer
 </p>
 
 <p align="center">
@@ -23,8 +23,7 @@
 - 🎯 Aspiring Software Engineer
 
 ---
-
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 
@@ -41,7 +40,7 @@
 ### Backend
 
 <p align="center">
-  <img src="illicons.dev/icons?i=nodejs,express
+  https://skillicons.dev/icons?i=nodejs,express
 </p>
 
 ### Database
@@ -56,7 +55,13 @@
   https://skillicons.dev/icons?i=git,github,vscode,androidstudio
 </p>
 
----
+
+### Database
+
+<p align="center">
+  https://skillicons.dev/icons?i=mysql
+</p>
+
 
 # 🌟 Featured Projects
 
