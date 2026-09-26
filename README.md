@@ -1,108 +1,83 @@
 <h1 align="center">Hi 👋, I'm Darshan Acharya</h1>
 
-<h3 align="center">
-Software Developer • Java Enthusiast • AI & Full-Stack Developer
-</h3>
+<h3 align="center">Software Developer • Java Enthusiast • Android Developer • AI Explorer</h3>
 
 <p align="center">
-Passionate about building intelligent applications using Java, Kotlin, React, Node.js, and Artificial Intelligence.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=FE428E&center=true&vCenter=true&width=700&lines=eveloper;Java+Developer;Android+Developer;AI+Enthusiast;Full+Stack+Developer
 </p>
 
 <p align="center">
-  <img src="adme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=FE428E&center=true&vCenter=true&width=700&lines=Software+Developer;Java+Developer;AI+Enthusiast;Android+Developer;Full+Stack+Developer
-</p>
-
-<p align="center">
-  https://komarev.com/ghpvc/?username=darshanacharya2&label=Profile%20Views&color=fe428e&style=for-the-badge
+  <img src="https://komarev.com/ghpvc/?username=darshanacharya2&label=Views&color=fe428e&style=for-the-badge
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 🎓 Computer Science Student
-- 💻 Passionate about Software Development
-- ☕ Strong interest in Java and Data Structures & Algorithms
-- 📱 Android Application Developer using Kotlin
-- 🌐 Full-Stack Developer using React, Node.js, and Express
-- 🤖 Building AI-powered applications with Claude AI and Gemini
-- 📚 Currently learning System Design and Backend Engineering
-- 🎯 Goal: Become a skilled Software Engineer and build impactful products
+- ☕ Java & Data Structures Enthusiast
+- 📱 Android Developer using Kotlin
+- 🌐 Full Stack Developer using React & Node.js
+- 🤖 Passionate about AI-Powered Applications
+- 🚀 Continuously learning System Design and Backend Development
+- 🎯 Aspiring Software Engineer
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 💻 Languages
+### Languages
 
-<p>
-  https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
-  https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white
-  https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-  https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+<p align="center">
+  https://skillicons.dev/icons?i=java,kotlin,javascript,python
 </p>
 
-### 🎨 Frontend
+### Frontend
 
-<p>
-  https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-  https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white
-  https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white
-  <img src="https:lds.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+<p align="center">
+  https://skillicons.dev/icons?i=react,vite,html,css
 </p>
 
-### ⚙️ Backend
+### Backend
 
-<p>
-  <img ://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
-  <img src="https:lds.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white
+<p align="center">
+  <img src="illicons.dev/icons?i=nodejs,express
 </p>
 
-### 🗄️ Database
+### Database
 
-<p>
-  https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white
+<p align="center">
+  https://skillicons.dev/icons?i=mysql
 </p>
 
-### 🤖 AI / ML
+### Tools & Platforms
 
-<p>
-  <img src="https://img.shields.io/badge/Claude_AI-D977or-the-badge
-  <img src="https://img.shields.io/badge/Gemini_AI-4285F4?the-badge&logo=google&logoColor=white
-  <imgs://img.shields.io/badge/YOLOv8-6A1B9A?style=for-the-badge
-  <img src="https://img.shields.io/badge/CNN-FF6F00?style=for-the>
-
-### 🔧 Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&white
-  <imgs://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&idstudio&logoColor=white
-  <img src="https://img.shields.io/badge/VS_Codeyle=for-the-badge&logo=visualstudiocode&logoColor=white
+<p align="center">
+  https://skillicons.dev/icons?i=git,github,vscode,androidstudio
 </p>
 
 ---
 
-## 🌟 Featured Projects
+# 🌟 Featured Projects
 
 ### 🐛 Namma Reshme
-Smart Android application developed using Kotlin that helps sericulture farmers monitor temperature and humidity conditions and receive intelligent recommendations for silkworm growth.
+Smart Android application developed using Kotlin that helps sericulture farmers monitor temperature and humidity conditions and receive recommendations for healthy silkworm growth.
 
-### 🩺 CNN-Based Radiological Abnormalities Detection
-AI-powered medical imaging system using CNN and YOLOv8 to detect abnormalities in radiological images and generate diagnostic reports.
+### 🩺 Radiological Abnormalities Detection System
+AI-powered medical imaging platform that uses CNN and YOLOv8 to detect abnormalities in radiological scans and generate diagnostic reports.
 
 ### 🐾 Pet Breed Identifier
-Upload a pet image and receive breed identification, personality characteristics, care guidelines, and fun facts using Claude AI.
+Upload a pet image and receive breed detection, personality traits, care guidelines, and fun facts using AI-powered image analysis.
 
 ### 🎵 Song Mood Classifier
-AI-powered application that analyzes songs and generates detailed emotional fingerprints, mood analysis, and energy insights.
+Analyze the mood, energy, and emotional fingerprint of songs using Claude AI.
 
 ### 💻 Java DSA Repository
-Collection of Java solutions for algorithms, coding challenges, interview preparation, and data structure problems.
+Collection of algorithmic solutions and coding interview preparation problems implemented in Java.
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
   https://github-readme-stats.vercel.app/api?username=darshanacharya2&show_icons=true&theme=radical&hide_border=true
@@ -110,42 +85,43 @@ Collection of Java solutions for algorithms, coding challenges, interview prepar
   https://github-readme-stats.vercel.app/api/top-langs/?username=darshanacharya2&layout=compact&theme=radical&hide_border=true
 </p>
 
+---
+
+# 🔥 GitHub Streak
+
 <p align="center">
   https://github-readme-streak-stats.herokuapp.com/?user=darshanacharya2&theme=radical&hide_border=true
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 🏆 GitHub Trophies
 
 <p align="center">
-  https://github-readme-activity-graph.vercel.app/graph?username=darshanacharya2&theme=react-dark&hide_border=true&area=true
+  https://github-profile-trophy.vercel.app/?username=darshanacharya2&theme=radical&no-frame=true&row=1&column=6
 </p>
 
 ---
 
-## 🏆 Achievements
+# 📈 Contribution Graph
 
-- ✅ Developed Android applications using Kotlin
-- ✅ Built AI-powered Full-Stack Applications
-- ✅ Integrated Claude AI and Gemini AI into production projects
-- ✅ Developed Medical Imaging and Computer Vision solutions
-- ✅ Solved Data Structures and Algorithms problems in Java
-- ✅ Built React + Node.js applications from scratch
+<p align="center">
+  https://github-readme-activity-graph.vercel.app/graph?username=darshanacharya2&theme=react-dark&bg_color=141321&hide_border=true
+</p>
 
 ---
 
-## 🎯 Current Focus
+# 💡 Currently Learning
 
 ```java
-class DarshanAcharya {
+public class Darshan {
 
     String[] learning = {
         "Advanced Java",
+        "Data Structures & Algorithms",
         "System Design",
         "Spring Boot",
-        "Backend Development",
-        "Data Structures & Algorithms"
+        "Backend Development"
     };
 
     String goal = "Become a Skilled Software Engineer 🚀";
@@ -154,7 +130,7 @@ class DarshanAcharya {
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
 <p align="center">
   https://www.linkedin.com/in/darshan-b-m-717b6527a/
@@ -169,8 +145,10 @@ class DarshanAcharya {
 ---
 
 <p align="center">
-  <i>"Code. Learn. Build. Repeat." 🚀</i>
+  https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical
 </p>
+
+<h3 align="center">✨ Code • Learn • Build • Repeat ✨</h3>
 
 <p align="center">
 ⭐ If you like my work, consider starring my repositories!
