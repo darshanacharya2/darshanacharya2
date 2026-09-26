@@ -119,7 +119,7 @@ public class DarshanAcharya {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Darshan_Acharya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshan-b-m-717b6527a/)
 [![GitHub](https://img.shields.io/badge/GitHub-darshanacharya2-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darshanacharya2)
 [![Gmail](https://img.shields.io/badge/Gmail-darshubm5554@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darshubm5554@gmail.com)
-
+[![LeetCode](https://img.shields.io/badge/LeetCode-darshanacharya2-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/darshanacharya2/)
 <br/>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Developer Quote"/>
