@@ -5,7 +5,7 @@
       <img src="profile-photo.jpeg" width="200" style="border-radius: 50%;" alt="Darshan Acharya"/>
     </td>
     <td width="70%" valign="top">
-      </td>
+    </td>
   </tr>
 </table>
 
