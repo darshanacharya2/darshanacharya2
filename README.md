@@ -2,9 +2,16 @@
   <tr>
     <td width="30%" align="center" valign="center">
       <!-- Change this filename to whatever you named your uploaded photo -->
-      <img src="profile-photo.jpeg" width="200" style="border-radius: 50%;" alt="Darshan Acharya"/>
+      <img src="profile-photo.png" width="200" style="border-radius: 50%;" alt="Darshan Acharya"/>
     </td>
     <td width="70%" valign="top">
+## 🚀 About Me
+- ☕ Focused on **Java**, **Data Structures and Algorithms**, and **SQL**
+- 📱 Building Android applications with **Kotlin** and **Android Studio**
+- 🌐 Developing full-stack applications with **React**, **Node.js**, and **Express**
+- 🤖 Exploring practical AI integrations for real-world applications
+- 🌱 Currently learning **Spring Boot**, **backend development**, and **system design**
+- 🎯 Goal: Become a skilled software engineer and build impactful products
     </td>
   </tr>
 </table>
@@ -22,18 +29,6 @@
 
 <table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top">
-
-## 🚀 About Me
-
-- ☕ Focused on **Java**, **Data Structures and Algorithms**, and **SQL**
-- 📱 Building Android applications with **Kotlin** and **Android Studio**
-- 🌐 Developing full-stack applications with **React**, **Node.js**, and **Express**
-- 🤖 Exploring practical AI integrations for real-world applications
-- 🌱 Currently learning **Spring Boot**, **backend development**, and **system design**
-- 🎯 Goal: Become a skilled software engineer and build impactful products
-
-</td>
 <td width="50%" valign="top">
 
 ## 💡 Currently Learning
