@@ -101,11 +101,11 @@ public class DarshanAcharya {
 
 <p align="center">
   <!-- Your locally generated GitHub Metrics -->
-  <img src="github-metrics.svg" width="60%" height="460" alt="GitHub Metrics"/>
+  <img src="github-metrics.svg" width="50%" height="460" alt="GitHub Metrics"/>
   
   <!-- Dynamic LeetCode Stats -->
   <a href="https://leetcode.com/darshanacharya2/">
-    <img src="https://leetcard.jacoblin.cool/darshanacharya2?theme=dark&amp;ext=activity" width="35%" height="460" alt="LeetCode Stats"/>
+    <img src="https://leetcard.jacoblin.cool/darshanacharya2?theme=dark&amp;ext=activity" width="50%" height="460" alt="LeetCode Stats"/>
   </a>
 </p>
 
